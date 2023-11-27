@@ -1,0 +1,45 @@
+.footerMedia {
+    width: 28.68px;
+    height: 29.67px;
+    flex-shrink: 0;
+}
+.footerIcon {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+}
+.footerText {
+    color: #969090;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+#footerContainer {
+    max-height: 300px;
+}
+li {
+    display: inline;
+    width: 82.266px;
+    height: 36px;
+    margin-right: 30px;
+    color: #FFF;
+    text-align: center;
+    font-family: Anybody;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.3px;
+}
+input {
+    width: 471px !important;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 5px;
+}
+button {
+    background-color: #1286CE;
+    height: 40px;
+}
